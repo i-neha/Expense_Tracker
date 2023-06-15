@@ -4,8 +4,8 @@
   "description": "In this project, we are going to learn how to make expense tracker application using Mongodb, Express, React and Node.",
   "main": "index.js",
   "scripts": {
-    "install-server": "cd backend && npm install",
-    "start-server": "cd backend && node server.js",
+    "install-server": "cd server && npm install",
+    "start-server": "cd server && node server.js",
     "install-client": "cd client && npm install",
     "build-client": "cd client && npm run build",
     "start-client": "cd client && npm run start"
